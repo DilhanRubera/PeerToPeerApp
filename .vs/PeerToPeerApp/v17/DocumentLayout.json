@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99D6CA9-BA2B-4987-BD20-213663CEFF24}|DekstopApp\\DekstopApp.csproj|e:\\curtin\\year 3\\sem 2\\dc - 2024\\assignment 2\\part c\\21026003_assignment_2_part_c\\peertopeerapp\\dekstopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99D6CA9-BA2B-4987-BD20-213663CEFF24}|DekstopApp\\DekstopApp.csproj|solutionrelative:dekstopapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99D6CA9-BA2B-4987-BD20-213663CEFF24}|DekstopApp\\DekstopApp.csproj|e:\\curtin\\year 3\\sem 2\\dc - 2024\\assignment 2\\part c\\21026003_assignment_2_part_c\\peertopeerapp\\dekstopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C99D6CA9-BA2B-4987-BD20-213663CEFF24}|DekstopApp\\DekstopApp.csproj|solutionrelative:dekstopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7929F3-1AFB-4D2A-8597-F934B1BF8E7B}|WebServiceApp\\WebServiceApp.csproj|e:\\curtin\\year 3\\sem 2\\dc - 2024\\assignment 2\\part c\\21026003_assignment_2_part_c\\peertopeerapp\\webserviceapp\\webserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B7929F3-1AFB-4D2A-8597-F934B1BF8E7B}|WebServiceApp\\WebServiceApp.csproj|solutionrelative:webserviceapp\\webserviceapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\DekstopApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DekstopApp\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\DekstopApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DekstopApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:49:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\DekstopApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DekstopApp\\MainWindow.xaml",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\DekstopApp\\MainWindow.xaml",
+              "RelativeToolTip": "DekstopApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T08:49:20.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebServiceApp",
+              "DocumentMoniker": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\WebServiceApp\\WebServiceApp.csproj",
+              "RelativeDocumentMoniker": "WebServiceApp\\WebServiceApp.csproj",
+              "ToolTip": "E:\\Curtin\\YEAR 3\\SEM 2\\DC - 2024\\Assignment 2\\Part C\\21026003_Assignment_2_Part_C\\PeerToPeerApp\\WebServiceApp\\WebServiceApp.csproj",
+              "RelativeToolTip": "WebServiceApp\\WebServiceApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T08:46:13.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

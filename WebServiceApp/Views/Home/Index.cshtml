@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Peer to Peer to Application</h1>
+    <table id="clientsTable" class="table table-bordered mt-4">
+        <thead>
+            <tr>
+                <th>Client ID</th>
+                <th>Port</th>
+                <th>Number of Jobs Completed</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+</div>
+
+<script>
+    async function fetchClients() {
+        console.log("fetchClients() called")
+        try {
+            const response = await fetch('http://localhost:5066/api/clients');
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const clients = await response.json();
+
+            const tableBody = document.querySelector('#clientsTable tbody');
+            tableBody.innerHTML = ''; 
+           
+            clients.forEach(client => {
+                const row = `<tr>
+                                    <td>${client.clientId}</td>
+                                    <td>${client.port}</td>
+                                    <td>${client.noOfCompletedJobs}</td>
+                                 </tr>`;
+                tableBody.innerHTML += row;
+            });
+        } catch (error) {
+            console.error('Error fetching clients:', error);
+        }
+    }
+
+   
+    setInterval(fetchClients, 60000);
+
+    fetchClients();
+</script>
